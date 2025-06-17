@@ -6,5 +6,5 @@ if result > 0:
     print("The result is positive.")
 elif result < 0:
     print("The result is negative.")
-elif:
+else:
       print("The result is poitive and negative.")
