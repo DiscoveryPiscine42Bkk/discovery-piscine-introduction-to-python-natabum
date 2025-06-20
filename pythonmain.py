@@ -97,7 +97,4 @@ while True:
     print("กรุณาเลือกเมนู 1-5 เท่านั้น")
 
 if _name_ == "_main_":
-  main()
-
-
-    
+  main() 
